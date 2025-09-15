@@ -5,7 +5,6 @@ import marimo as mo
 
 __generated_with__ = "0.6.14"
 app = mo.App()
-
 # Cell 1: Define interactive slider widget
 # This cell creates the input control for our analysis
 # The slider's value will influence computations in later cells
